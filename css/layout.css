@@ -89,7 +89,7 @@ a {
 }
 
 .contact{
-	margin:30px 0px 10px 0px;
+	margin:10px 0px 10px 0px;
 }
 
 .top_contact{
@@ -142,15 +142,5 @@ ul{
 .icon{
 	display: inline-block;
 	vertical-align: bottom;
-	padding-right: 132px;
-}
-
-/*padding for the git icon*/
-.git{
-	padding-right: 92px;
-}
-
-/*the specific padding for the mail icon*/
-.mail{
-	padding-right: 118px;
+	padding-left: 10px;
 }
