@@ -7,7 +7,7 @@ body {
 h1 {
 	font-size: 3rem;
 	font-weight: normal;
-	margin: 0px;
+	margin-bottom: .3rem;
 }
 
 h2 {
@@ -24,6 +24,7 @@ h3 {
 
 h4 {
 	font-size: 1.05rem;
+	margin-top: 0px;
 	margin-bottom: .3rem;
 	color: #03A9F4;
 	text-align: right;
@@ -33,31 +34,12 @@ header {
 	margin-bottom: 1.875rem;
 }
 
-
-.circle {
-    width: 170px;
-    height: 170px;
-    border-radius: 85px;
-		background-color: #03A9F4;
-		color: #FFF;
-		margin: 2px 2px 2px 25px;
-		padding: 2px 3px 4px 3px;
-}
-
-.big_letter{
-	font-size: 4.5rem;
-	margin: 4.5px 3px 2px 3px;
-	padding: 35px 60px 35px 60px;
-	border: 2px dashed #FFF;
-	border-radius: 115px;
+.topic {
+	margin-bottom: 30px;
 }
 
 .top_page{
 	margin-top: 2rem;
-}
-
-.top{
-	margin-top: 4rem;
 }
 
 .where{
@@ -90,10 +72,6 @@ a {
 
 .contact{
 	margin:10px 0px 10px 0px;
-}
-
-.top_contact{
-	margin-top: 40px;
 }
 
 ul{
