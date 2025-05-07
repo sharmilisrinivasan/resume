@@ -77,6 +77,7 @@ progress {
 .progress-bar-success {
 	background-color: #5cb85c;
 	-webkit-print-color-adjust: exact;
+	color: black;
 }
 
 .progress-striped .progress-bar-success {
@@ -88,6 +89,7 @@ progress {
 .progress-bar-info {
 	background-color: #5bc0de;
 	-webkit-print-color-adjust: exact;
+	color: black;
 }
 
 .progress-striped .progress-bar-info {
